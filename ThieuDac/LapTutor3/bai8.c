@@ -3,6 +3,8 @@ int main(){
 	float y = 3*x + 2;
 	float a = -1;
 	float b = 1;
+	
+	// vong lap tim x 
 	while (y != 0){
 		x = (a + b)/2;
 		y = 3*x + 2;
